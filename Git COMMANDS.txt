@@ -1,0 +1,27 @@
+
+touch .gitignore
+git config --global user.name
+git config --global user.email
+git init
+git add .
+git commit -m "Any Commit i WANT"
+git status
+
+// On github make sure you click on SSH
+git remote add origin git@github.com:MoazAbdullah1/Search-Images-App.git
+git push origin master
+
+ssh-keygen -t ed25519 -C "moazabdullah02@gmail.com"
+===============
+// Your public key has been saved in /c/Users/FA22-BCS-025.CUIWAH/.ssh/id_ed25519.pub
+
+cat /c/Users/FA22-BCS-025.CUIW/.ssh/id_ed25519.pub
+===============
+// --> Both are same 1st is for to give idea where addere is copy 2nd is for how to run command
+
+
+// For SSH
+// ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMWTI9ePzx9pz4gianj9aVPiABvjfy8ZoXLoGMB9B6IS moazabdullah02@gmail.com
+// 	Copy address like this and paste it to gitHub 
+
+
