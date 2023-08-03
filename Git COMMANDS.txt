@@ -25,3 +25,5 @@ cat /c/Users/FA22-BCS-025.CUIW/.ssh/id_ed25519.pub
 // 	Copy address like this and paste it to gitHub 
 
 
+Clothing Store use Java Script to make cards And Commit out 4 HTML FILE CARDS"
+
